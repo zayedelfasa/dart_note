@@ -1,16 +1,18 @@
-WELCOME TO FREEZED
+### WELCOME TO FREEZED
 
 Contoh generate object menggunakan freezed di [flutter](https://flutter.dev/).
 
 Pengertian lebih lanjutnya bisa lihat referesi [di sini](https://github.com/rrousselGit/freezed).
 # Penggunaan Freezed
-Dependecies:
-freezed_annotation
+#### Dependecies:
+`freezed_annotation`
+
 Referensi:
 https://pub.dev/packages/freezed
 
-Dev_dependencies:
-freezed
+#### Dev_dependencies:
+`freezed`
+
 Referensi:
 https://pub.dev/packages/freezed
 
