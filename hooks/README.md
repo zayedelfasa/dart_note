@@ -26,9 +26,11 @@ import 'package:functional_widget_annotation/functional_widget_annotation.dart';
 
 part 'use_state.g.dart';
 
+/// contoh ini menggunakan functional widget.
 @FunctionalWidget(debugFillProperties: true, widgetType: FunctionalWidgetType.hook)
 Widget useStateExample() {
-  // 
+  /// melakukan inisialisasi state dalam bentuk Int.
+  /// state ini dapat dimasukkan  
   final counter = useState(0);
 
   return MaterialApp(
