@@ -9,6 +9,8 @@ Tentang Flutter => https://flutter.dev
 3. [`functional widget`](https://github.com/zayedelfasa/dart_note/tree/master/functional_widget) - Contoh penggunaan widget dalam bentuk functional (mirip functional component pada react).
 4. [`flutter hooks`](https://github.com/zayedelfasa/dart_note/tree/master/hooks) - Contoh penggunaan hooks seperti React, tetapi untuk flutter.
 
+### Pengetahuan Lainnya tentang Flutter
+
 - Awesome Flutter => https://github.com/Solido/awesome-flutter
 - Flutter Showcase => https://flutter.dev/showcase
 
